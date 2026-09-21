@@ -1,0 +1,15 @@
+# Environment files in any directory
+.env
+.env.*
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# macOS
+.DS_Store
